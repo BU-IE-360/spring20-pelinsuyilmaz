@@ -1,1 +1,1 @@
-[Here] (Homework1Pelinsu.html) is Homework 1
+[Here](Pelinsu.html) is Homework 1
